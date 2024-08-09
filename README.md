@@ -1,11 +1,12 @@
 ## Olá, meu nome é Vitor Eduardo Ramilio!
 
 
+
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
+- 🎓 Cursando Ensino Médio com Técnico Integrado de Informática no IFSC CAMPUS XXE
 
 ## 🚀 Habilidades
 
