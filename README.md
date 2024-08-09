@@ -1,7 +1,6 @@
 ## Olá, meu nome é Vitor Eduardo Ramilio!
 
 
-
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
@@ -85,3 +84,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
     alt="Número de visitantes no perfil"
   />
 </p>
+
+<h3>Me</h3>
+<div>
+<img src="https://github.com/mercur21/mercur21/assets/105132043/8a8ed0ec-7c9e-44a6-80f0-e3eb61477376" width="200" height="200"alt="gif animado">
+</div>
