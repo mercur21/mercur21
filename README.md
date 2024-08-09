@@ -25,9 +25,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+![Gmail Badge](https://img.shields.io/badge/-vitor.eduardo2135@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.eduardo2135@gmail.com)
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)](https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)
 
 ### ⚙️ GitHub Analytics
 
