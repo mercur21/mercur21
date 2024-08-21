@@ -34,7 +34,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/?username=mercur21&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=mercur21&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
