@@ -33,8 +33,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
   <tr>
     <td>
       <div>
-        <a href="https://github.com/henriquestrada">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="440"/>
+        <a href="https://github.com/mercur21">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mercur21&show_icons=true&theme=synthwave" width="440"/>
 </a>
     </td>
     <td>
