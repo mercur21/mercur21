@@ -32,11 +32,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=mercur21&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+      <div>
+        <a href="https://github.com/henriquestrada">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="440"/>
+</a>
     </td>
     <td>
       <img
