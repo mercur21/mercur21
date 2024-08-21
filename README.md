@@ -11,6 +11,9 @@
 
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
+## 👨‍💻 Sistemas Operacionais: 
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)
 
