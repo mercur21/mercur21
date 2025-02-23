@@ -4,8 +4,9 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Ensino Médio com Técnico Integrado de Informática no IFSC CAMPUS XXE
+- 🌱 Amante de Tecnologia
+- 🎓 Cursando Ciências da Computação na Unochapéco
+- 🎓 Formado no Ensino Médio com Técnico Integrado de Informática no IFSC CAMPUS XXE
 
 ## 🚀 Habilidades
 
